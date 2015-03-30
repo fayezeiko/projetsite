@@ -1,0 +1,36 @@
+body.noir{
+    background-color: black;
+}
+
+header {
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+
+header a {
+    display: inline-block;
+    text-decoration: none;
+    font-family: arial;
+    margin-top: 40px;
+    color: red;
+}
+
+
+header li {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+main p {
+    background-color: white;
+    
+}
+
+.accueil { 
+    width: 300px;
+    display: inline-block;
+    
+}
