@@ -70,5 +70,12 @@ main p {
     color: white;
     
 }
+footer {
+    background-color: white;
+    font-family:fantasy; 
+    color:red;
+    text-align:center;
+    
+}
 
     
