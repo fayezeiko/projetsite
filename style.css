@@ -26,6 +26,9 @@ header li {
 
 main p {
     background-color: white;
+    font-family:fantasy; 
+    color:red;
+    text-align:center;
     
 }
 
@@ -40,6 +43,12 @@ main p {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    
+} 
+
+{ img-center
+    display: block;
+        margin auto;
 }
 
 #navbar a {
